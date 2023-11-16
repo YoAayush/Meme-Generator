@@ -8,7 +8,7 @@ function Middleitem(){
     const [meme,setMeme] = useState({
         toptext: "",
         bottomtext: "",
-        randomImage: "http://i.imgflip.com/1bij.jpg" 
+        randomImage: "https://i.imgflip.com/1bij.jpg" 
     });
 
     const [allMemes,setallMemes] = useState([]);
